@@ -1,0 +1,14 @@
+body {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+div {
+  background-color: #474543;
+  width: 100px;
+  height: 100px;
+  margin: 100px auto;
+  box-shadow: 50px -51px #519700, 50px 50px #db8300, -51px 50px #1262a1,
+    -51px -51px #ca0e00;
+}
